@@ -1,7 +1,7 @@
 {
-  "name": "node-pcm-mixer",
+  "name": "@theojl6/node-pcm-mixer",
   "version": "0.1.0",
-  "description": "",
+  "description": "Mix two PCM buffers into one",
   "main": "index.js",
   "scripts": {
     "test": "cargo test",
@@ -14,8 +14,21 @@
     "cross": "npm run cross-build -- --release"
   },
   "author": "theojl6",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@neon-rs/cli": "0.1.82"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theojl6/node-pcm-mixer.git"
+  },
+  "keywords": [
+    "[\"audio\"",
+    "\"pcm\"",
+    "\"neon-rust\"]"
+  ],
+  "bugs": {
+    "url": "https://github.com/theojl6/node-pcm-mixer/issues"
+  },
+  "homepage": "https://github.com/theojl6/node-pcm-mixer#readme"
 }
