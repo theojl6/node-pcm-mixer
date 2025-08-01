@@ -1,6 +1,6 @@
 {
   "name": "@theojl6/node-pcm-mixer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mix two PCM buffers into one",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,10 @@
     "url": "git+https://github.com/theojl6/node-pcm-mixer.git"
   },
   "keywords": [
-    "[\"audio\"",
-    "\"pcm\"",
-    "\"neon-rust\"]"
+    "mix",
+    "audio",
+    "pcm",
+    "neon-rs"
   ],
   "bugs": {
     "url": "https://github.com/theojl6/node-pcm-mixer/issues"

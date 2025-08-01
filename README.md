@@ -1,6 +1,9 @@
 # node-pcm-mixer
 Mix two PCM buffers into one
 
+## Features
+* 16 bit LPCM mixing
+
 ## Installation
 ```bash
 npm install node-pcm-mixer
